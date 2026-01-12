@@ -2,3 +2,8 @@ fastapi
 uvicorn[standard]
 python-jobspy
 pandas
+httpx
+python-dotenv
+reportlab
+PyPDF2
+pydantic-settings
