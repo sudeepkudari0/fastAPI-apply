@@ -7,3 +7,4 @@ python-dotenv
 reportlab
 PyPDF2
 pydantic-settings
+PyYAML

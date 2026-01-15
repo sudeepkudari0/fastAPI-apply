@@ -1,0 +1,44 @@
+personal:
+  name: "Sudeep Kudari"
+  portfolio: "https://www.sudeepkudari.online"
+  email: "sudeepkudari0@gmail.com"
+  phone: "+91 8618078136"
+  linkedin: "https://www.linkedin.com/in/sudeep-kudari"
+
+summary: "Full-Stack Software Developer with experience in Java, Typescript, modern Web Frameworks, and Cloud Platforms. I built end-to-end applications—from Frontend UI to Backend services and Scalable Deployments on AWS"
+
+employment:
+  - company: "ThinkRoman Ventures"
+    position: "Software Developer"
+    duration: "[Feb 2024] — Present"
+    technologies: "TypeScript, Next.js, MongoDB, Prisma, Redis, Java, Spring Boot, MySQL, Kafka, Aerospike, AWS (Lambda, EC2, S3), JUnit"
+    roles:
+      - title: "As Full-Time Developer (June 2024 – Present)"
+        bullets:
+          - "Built and deployed scalable full-stack applications using Next.js, MongoDB, and Prisma ORM for both B2B and B2C use cases. Optimized system performance and user experience."
+          - "Designed modular SaaS architectures with multi-tenant and production-grade performance."
+          - "Integrated third-party APIs like WhatsApp, Zoom, and payment gateways (Razorpay, PayU, PayPal) for end-to-end feature delivery."
+          - "Optimized performance across mobile and desktop platforms with server-side rendering, dynamic routing, and efficient data fetching."
+      - title: "As Intern (Feb 2024 – June 2024)"
+        bullets:
+          - "Contributed to development of internal tools and modules under mentorship."
+          - "Gained hands-on experience with API integrations in production-ready applications."
+          - "Participated in code reviews, daily stand-ups, and agile development processes."
+
+projects:
+  - name: "OutPost – AI Social Scheduler & Content Generator"
+    url: "https://outpost.sudeepkudari.online"
+    bullets:
+      - "Built a full-stack SaaS platform that enables users to connect multiple social media accounts, auto-generate content using AI (supports OpenAI, Claude, etc.), schedule posts across platforms, and manage multiple brand accounts from a unified dashboard."
+  - name: "Forms Factory – Collaborative Form Builder & Submission"
+    url: "https://forms.sudeepkudari.online"
+    bullets:
+      - "Built a collaborative form platform with dynamic form creation, team invites, real-time submissions, API Keys, Webhooks, Excel export, and role based access for secure workflow."
+
+skills: "Java, TypeScript, JavaScript, React, Next.js, Spring Boot, Node.js, MongoDB, MySQL, PostgreSQL, Redis, Kafka, AWS (S3, EC2, Lambda), Git, Linux, Prisma ORM, JUnit"
+
+education:
+  degree: "Bachelor of Technology in Information Science"
+  institution: "New Horizon College of Engineering, Bangalore"
+  duration: "(June 2019 — August 2023)"
+  cgpa: "7.6"
