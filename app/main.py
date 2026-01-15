@@ -28,7 +28,7 @@ app.add_middleware(
 )
 
 # Include API v1 router
-app.include_router(api_router)
+app.include_router(api_router, prefix="/api/v1")
 
 
 if __name__ == "__main__":
